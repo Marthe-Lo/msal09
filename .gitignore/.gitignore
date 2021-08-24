@@ -1,6 +1,0 @@
-.metadata
-.sonarlint
-**/*.jar
-**/*.war
-**/*.ear
-**/*.class
